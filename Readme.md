@@ -1,5 +1,5 @@
 ## This codebase is maintained by [Prashanjeet Haldar](https://github.com/prashanjeeth-ev)
-### Code and helping notes from learning program on Generative AI 
+Code and helping notes from learning program on Generative AI 
 
 ### Assignments 
  1. $URL Shortener:$
